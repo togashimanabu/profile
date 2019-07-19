@@ -1,7 +1,5 @@
-# profile
-My profile
-
-## Name
+# Name
 Manabu Togashi
+
 富樫 学
 
