@@ -5,6 +5,6 @@ Database engineer
 
 Freelance
 
-Tokyo Institute of Technology Computational chemistry
+Tokyo Institute of Technology Bio chemistry
 
 T-SQL, PL/SQL, Perl, SAS, R, Tableau, Exploratory
