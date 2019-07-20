@@ -6,3 +6,6 @@ Manabu Togashi
 個人事業主
 
 データベース・エンジニア
+
+T-SQL, PL/SQL, Perl, SAS, R, Tableau, Exploratory
+
