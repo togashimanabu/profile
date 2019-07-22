@@ -9,4 +9,5 @@ Freelance
 
 Tokyo Institute of Technology Bio chemistry
 
-T-SQL, PL/SQL, Perl, PowerShell, bash, SAS, R, Tableau, Exploratory
+T-SQL, PL/SQL, Perl, PowerShell, bash, SAS, Tableau
+
