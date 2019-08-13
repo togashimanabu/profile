@@ -17,4 +17,6 @@ Transact-SQL, PL/SQL, Perl, PowerShell, bash, SAS, Tableau, Database design
 
 [@TogashiManabu](https://twitter.com/TogashiManabu)
 
+[There's more than one way to do it](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it)
+
 よろしくお願いいたします。
