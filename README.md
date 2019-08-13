@@ -17,3 +17,4 @@ Transact-SQL, PL/SQL, Perl, PowerShell, bash, SAS, Tableau, Database design
 
 [@TogashiManabu](https://twitter.com/TogashiManabu)
 
+よろしくお願いいたします。
