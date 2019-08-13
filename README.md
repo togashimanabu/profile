@@ -15,6 +15,6 @@ Exploratory Data Science boot camp
 
 Transact-SQL, PL/SQL, Perl, PowerShell, bash, SAS, Tableau, Database design
 
-[@TogashiManabu](https://twitter.com/TogashiManabu)
+[@TogashiManabu](https://twitter.com/TogashiManabu){:target="_blank"}
 
 
