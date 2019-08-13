@@ -7,7 +7,7 @@ Database engineer
 
 Freelance
 
-Tokyo Institute of Technology, Bio chemistry
+Tokyo Institute of Technology, Biochemistry
 
 Coursera Machine learning
 
