@@ -5,8 +5,6 @@ Manabu Togashi
 
 Database engineer
 
-Freelance
-
 Tokyo Institute of Technology, Biochemistry [Link](https://www.sciencedirect.com/science/article/abs/pii/S0009261405012637)
 
 The Open University of Japan (Now)
