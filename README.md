@@ -3,7 +3,7 @@
 
 Manabu Togashi
 
-Database engineer
+Database engineer at Togashi Data Inc.
 
 Tokyo Institute of Technology, Biochemistry [Link](https://www.sciencedirect.com/science/article/abs/pii/S0009261405012637)
 
