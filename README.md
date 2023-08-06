@@ -1,24 +1,37 @@
-# Profile
-富樫 学
+# 業務経歴書
 
-Manabu Togashi
+## 基本情報
 
-Database engineer at Togashi Data Inc.
+|項目|値|
+|----|----|
+|名前|富樫 学|
+|職種|データエンジニア|
+|住所|東京都|
+|Linkedin|[Manabu Togashi](https://www.linkedin.com/in/manabu-togashi-ba96811b2/)|
 
-Tokyo Institute of Technology, Biochemistry [Link](https://www.sciencedirect.com/science/article/abs/pii/S0009261405012637)
+## スキルセット
+- データ整備と分析、ETL、データベース管理、分析用クエリの開発。主にMicrosoft Azure環境を使用。
 
-The Open University of Japan (Now)
+## 言語
+- Transact-SQL、PL/SQL、Python、Perl、Bash、VBS
 
-Coursera Machine learning
+## データベース
+- Microsoft SQL Server、Oracle Database、MySQL
 
-Exploratory Data Science boot camp
+## クラウド
+  - Azure、AWS、GCP
 
-Transact-SQL, PL/SQL, Perl, PowerShell, bash, SAS, R, Tableau, Database design
+## SaaS/PaaS
+- GitHub、Treasure Data
 
-[@TogashiManabu](https://twitter.com/TogashiManabu)
+## 資格
+- Azure Data Fundamentals DP-900, Azure Fundamentals AZ-900, Oracle Master, 応用情報技術者試験等
 
-https://www.linkedin.com/in/manabu-togashi-ba96811b2/
+## 経歴
+- 2023年: データ基盤構築 (BigQuery, Python)
+- 2022年: 自動販売機の最適化システム構築 (Azure Synapse, Azure Data Factory)
+- 2021, 2020年: データ基盤構築、業務効ツール作成 (Azure VM, SQL Server, AWS Glue, Step Functions等)
+- 2019年: SQL中級の講師、Treasure Workflowの講師 (Treasure Data, Presto)
+- その他、多数の経験を持つ。
 
-[There's more than one way to do it](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it)
-
-よろしくお願いいたします。
+詳細版は[こちら](https://github.com/togashimanabu/sample/blob/master/profile_detail.md)
