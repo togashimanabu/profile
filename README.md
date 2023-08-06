@@ -34,4 +34,5 @@
 - 2019年: SQL中級の講師、Treasure Workflowの講師 (Treasure Data, Presto)
 - その他、多数の経験を持つ。
 
-詳細版は[こちら](https://github.com/togashimanabu/sample/blob/master/profile_detail.md)
+## 詳細版
+詳細版は[こちら](https://github.com/togashimanabu/profile/blob/master/DETAIL.md)です
