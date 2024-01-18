@@ -59,7 +59,7 @@
 - 担当工程
   - ETL | データマートの作成
 - 環境
-  - HPE Ezmeral | Apache Airflow | Python | Bash | Jupyter Notebook
+  - HPE Ezmeral | Apache Airflow | Python | Bash | Jupyter Notebook | Hadoop | Kubernetes
 
 ### 2022年9月～2023年8月 N社(システム開発)
 - 概要
