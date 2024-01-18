@@ -53,6 +53,14 @@
 - IBM pSeriesシステム管理 AIX5.1（2003年12月）
 
 ## 業務経歴
+### 2023年9月～現在 H社(システム開発)
+- 概要
+  - データ基盤構築
+- 担当工程
+  - ETL | データマートの作成
+- 環境
+  - HPE Ezmeral | Apache Airflow | Python | Bash | Jupyter Notebook
+
 ### 2022年9月～2023年8月 N社(システム開発)
 - 概要
   - データ基盤構築
