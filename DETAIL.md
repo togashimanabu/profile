@@ -63,9 +63,9 @@
 ## 業務経歴
 ### 2024年6月～現在 S社(システム開発)
 - 概要
-  - Database環境構築
-- 担当工程
   - Oracle Database環境構築
+- 担当工程
+  - Oracle Database Data Guard環境構築
 - 環境
   - Oracle Database 19.23 | Redhat Enterprise Linux 9.2 | Microsoft Azure
 
